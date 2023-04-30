@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\WinFormsApp298.exe
+C:\Users\HP\Desktop\WinFormsApp298.dll
+C:\Users\HP\Desktop\WinFormsApp298.deps.json
+C:\Users\HP\Desktop\WinFormsApp298.runtimeconfig.json
+C:\Users\HP\Desktop\WinFormsApp298.pdb
